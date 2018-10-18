@@ -4,12 +4,15 @@ html {
 
 body {
     height: 100%;
-  background-image:url("https://media.giphy.com/media/11wsZr0jbXc15m/giphy.gif");
+  background-image:url("https://thumbs.gfycat.com/OrangeNimbleCaterpillar-size_restricted.gif");
     background-repeat: no-repeat;
     background-size:cover;
 }
 a {
     text-decoration: none;
+        color:#ffff00;
+        font-weight:bold;
+        font-size: 30px;
 }
 
 .main {
@@ -22,11 +25,13 @@ a {
 .bar{
     
     display:flex;
+    flex-direction:column;
     justify-content:space-between;
+   
     
 }
 #title{
    
-    color:	#ffbf00;
-    
+    color:#ffff00;
+font-family: 'Charmonman', cursive;
 }

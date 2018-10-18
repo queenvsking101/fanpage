@@ -1,0 +1,15 @@
+.model{
+display:flex;
+justify-content:space-between;
+}
+.pic{
+    
+ width:20px;   
+ height:20px;
+    
+}
+body{
+    
+    
+background-color:blue;
+}
