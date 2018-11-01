@@ -1,15 +1,16 @@
 .model{
 display:flex;
 justify-content:space-between;
+flex-wrap:wrap;
 }
 .pic{
     
- width:20px;   
- height:20px;
+ width:100px;   
+ height:100px;
     
 }
 body{
-    
-    
-background-color:blue;
+background-image: url("https://s3.r29static.com//bin/entry/b2e/x/1587194/image.gif");
+ background-repeat: no-repeat;
+    background-size:cover;
 }
