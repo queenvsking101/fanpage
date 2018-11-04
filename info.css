@@ -1,7 +1,18 @@
 body{
-    background:grey;
+    background-image:url("https://media1.tenor.com/images/e816596243a9e1171d7e199ea908e72e/tenor.gif?itemid=8676268");
+    background-repeat: no-repeat;
+    background-size:cover;
 }
-h1{
-
+#thing{
+    font-size:30px;
+    font-family: 'Spicy Rice', cursive;
+}
+p{
     
+    font-family: 'Mali', cursive;
+
+}
+a{
+ font-size: 30px;
+  font-family: 'Acme', sans-serif;
 }

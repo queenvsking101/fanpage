@@ -1,0 +1,21 @@
+img{
+  
+    width:150px;
+    height:100px;
+}
+.family{
+ display:flex;
+    justify-content:space-around;
+  align-self:center;
+}
+body{
+ color:blue;
+ background-image: url("https://i.gifer.com/EbRT.gif")
+}
+p{
+font-size:25px;
+}
+a{
+ font-size: 30px;
+  font-family: 'Acme', sans-serif;
+}

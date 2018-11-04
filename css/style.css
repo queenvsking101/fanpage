@@ -9,6 +9,7 @@ body {
     background-size:cover;
 }
 a {
+    
     text-decoration: none;
         color:#ffff00;
         font-weight:bold;
@@ -27,6 +28,10 @@ a {
     display:flex;
     flex-direction:column;
     justify-content:space-between;
+  font-family: 'Mali', cursive;
+
+
+
    
     
 }
@@ -34,4 +39,11 @@ a {
    
     color:#ffff00;
 font-family: 'Charmonman', cursive;
+}
+h1{
+    
+font-family: 'Spicy Rice', cursive;
+}
+a{
+  font-size: 60px;
 }
